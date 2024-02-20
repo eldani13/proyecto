@@ -5,6 +5,7 @@ export default function inicio (){
         <div>
             {/* Daniel */}
             <h1>Daniel</h1>
+            <span>Horita lo termino</span>
         </div>
     )
 }
